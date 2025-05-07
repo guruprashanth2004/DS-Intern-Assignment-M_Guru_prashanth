@@ -7,7 +7,7 @@ SmartManufacture Inc. has deployed a sensor network in a manufacturing facility 
 
 ## Dataset Summary
 
-- **Target Variable**: `equipment_energy_consumption` (in Wh)
+- **Target Variable**: `equipment_energy_consumption`
 - **Features**: 
   - Indoor zone temperatures and humidities from 9 zones
   - External weather conditions (e.g., temperature, humidity, wind speed)
